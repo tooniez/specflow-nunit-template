@@ -44,5 +44,5 @@ For more information on customizing the configuration of your SpecFlow project, 
 
 ##  License
 
-📝 Copyright © 2023 [tooniez](https://github.com/tooniez). <br />
+📝 Copyright © 2024 [tooniez](https://github.com/tooniez). <br />
 This project is [MIT](https://github.com/tooniez/specflow-nunit-template/blob/main/LICENSE) licensed.
