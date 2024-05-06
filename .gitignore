@@ -1,0 +1,31 @@
+# SpecFlow generated files
+*.feature.cs
+*.feature.cs.i
+*.feature.cs.vb
+*.feature.cs.vb.i
+
+# Build output
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.vscode
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+packages/
+
+# Test Results
+TestResults/
+
+# Miscellaneous
+*.cache
+*.log
+*.tmp
+*.bak
+*.swp
