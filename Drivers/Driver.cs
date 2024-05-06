@@ -2,8 +2,8 @@ using System;
 
 namespace SpecflowNunit.Drivers
 {
-    public class Driver
-    {
+  public class Driver
+  {
 
-    }
+  }
 }
