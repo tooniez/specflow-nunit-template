@@ -11,7 +11,7 @@ jobs:
         with:
           dotnet-version: '5.0.x'
       - name: Install dependencies
-        run: dotnet restore
+        run: dotnet restore SpecflowNunit.csproj
       - name: Install dotnet-format
         run: dotnet tool install -g dotnet-format
       - name: Run dotnet-format
