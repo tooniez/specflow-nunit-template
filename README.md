@@ -1,10 +1,10 @@
-# SpecFlow NUnit Boilerplate 🚀🔬
+# SpecFlow NUnit Boilerplate 
 
 A ready-to-use boilerplate for SpecFlow applications with NUnit for testing.
 
 ## Project setup
 
-🔧 Run the following command to install all the project dependencies:
+ Run the following command to install all the project dependencies:
 
 ```shell
 dotnet restore
@@ -12,7 +12,7 @@ dotnet restore
 
 ## Compiles and runs the application
 
-🚀 Run the following command to compile and run the application:
+ Run the following command to compile and run the application:
 
 ```shell
 dotnet run
@@ -20,7 +20,7 @@ dotnet run
 
 ## Compiles for production
 
-👉 Run the following command to compile the application for production:
+ Run the following command to compile the application for production:
 
 ```shell
 dotnet build --configuration Release
@@ -30,7 +30,7 @@ This command generates an optimized production-ready build.
 
 ## Run your unit tests
 
-🔬 Run the following command to execute the unit tests for the application using NUnit:
+ Run the following command to execute the unit tests for the application using NUnit:
 
 ```shell
 dotnet test
@@ -44,5 +44,5 @@ For more information on customizing the configuration of your SpecFlow project, 
 
 ##  License
 
-📝 Copyright © 2024 [tooniez](https://github.com/tooniez). <br />
+ Copyright  2024 [tooniez](https://github.com/tooniez). <br />
 This project is [MIT](https://github.com/tooniez/specflow-nunit-template/blob/main/LICENSE) licensed.
